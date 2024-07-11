@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\SoftWare Development\Library Project\BookLib\obj\Debug\BookLib.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SoftWare Development\Library Project\BookLib\obj\Debug\BookLib.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftWare Development\Library Project\BookLib\bin\Debug\BookLib.dll
+C:\Users\User\Desktop\SoftWare Development\Library Project\BookLib\bin\Debug\BookLib.pdb
+C:\Users\User\Desktop\SoftWare Development\Library Project\BookLib\obj\Debug\BookLib.dll
+C:\Users\User\Desktop\SoftWare Development\Library Project\BookLib\obj\Debug\BookLib.pdb

@@ -1,0 +1,75 @@
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\obj\Debug\Library Project.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\obj\Debug\Library Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\obj\Debug\App.g.cs
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\obj\Debug\Library Project_MarkupCompile.cache
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\obj\Debug\Library Project_MarkupCompile.lref
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\bin\Debug\Library Project.exe.config
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\bin\Debug\Library Project.exe
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\bin\Debug\Library Project.pdb
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\bin\Debug\BookLib.dll
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\bin\Debug\BookLib.pdb
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\obj\Debug\Library Project.g.resources
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\obj\Debug\Library_Project.Properties.Resources.resources
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\obj\Debug\Library Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\obj\Debug\Library Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\obj\Debug\Library Project.csproj.CopyComplete
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\obj\Debug\Library Project.exe
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\obj\Debug\Library Project.pdb
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\obj\Debug\Pages\AddItem.g.cs
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\obj\Debug\Pages\AddItem.baml
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\obj\Debug\Pages\EditItem.g.cs
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\obj\Debug\Pages\EditItem.baml
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\obj\Debug\Pages\ItemList.g.cs
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\obj\Debug\Pages\ItemList.baml
+C:\Users\User\Desktop\SoftWare Development\Library\Library Project\Library Project\bin\Debug\Library Project.exe.config
+C:\Users\User\Desktop\SoftWare Development\Library\Library Project\Library Project\bin\Debug\Library Project.exe
+C:\Users\User\Desktop\SoftWare Development\Library\Library Project\Library Project\bin\Debug\Library Project.pdb
+C:\Users\User\Desktop\SoftWare Development\Library\Library Project\Library Project\bin\Debug\BookLib.dll
+C:\Users\User\Desktop\SoftWare Development\Library\Library Project\Library Project\bin\Debug\BookLib.pdb
+C:\Users\User\Desktop\SoftWare Development\Library\Library Project\Library Project\obj\Debug\Library Project.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SoftWare Development\Library\Library Project\Library Project\obj\Debug\Library Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\SoftWare Development\Library\Library Project\Library Project\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\SoftWare Development\Library\Library Project\Library Project\obj\Debug\Pages\AddItem.g.cs
+C:\Users\User\Desktop\SoftWare Development\Library\Library Project\Library Project\obj\Debug\Pages\EditItem.g.cs
+C:\Users\User\Desktop\SoftWare Development\Library\Library Project\Library Project\obj\Debug\Pages\ItemList.g.cs
+C:\Users\User\Desktop\SoftWare Development\Library\Library Project\Library Project\obj\Debug\App.g.cs
+C:\Users\User\Desktop\SoftWare Development\Library\Library Project\Library Project\obj\Debug\Library Project_MarkupCompile.cache
+C:\Users\User\Desktop\SoftWare Development\Library\Library Project\Library Project\obj\Debug\Library Project_MarkupCompile.lref
+C:\Users\User\Desktop\SoftWare Development\Library\Library Project\Library Project\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\SoftWare Development\Library\Library Project\Library Project\obj\Debug\Pages\AddItem.baml
+C:\Users\User\Desktop\SoftWare Development\Library\Library Project\Library Project\obj\Debug\Pages\EditItem.baml
+C:\Users\User\Desktop\SoftWare Development\Library\Library Project\Library Project\obj\Debug\Pages\ItemList.baml
+C:\Users\User\Desktop\SoftWare Development\Library\Library Project\Library Project\obj\Debug\Library Project.g.resources
+C:\Users\User\Desktop\SoftWare Development\Library\Library Project\Library Project\obj\Debug\Library_Project.Properties.Resources.resources
+C:\Users\User\Desktop\SoftWare Development\Library\Library Project\Library Project\obj\Debug\Library Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\SoftWare Development\Library\Library Project\Library Project\obj\Debug\Library Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftWare Development\Library\Library Project\Library Project\obj\Debug\Library Project.csproj.CopyComplete
+C:\Users\User\Desktop\SoftWare Development\Library\Library Project\Library Project\obj\Debug\Library Project.exe
+C:\Users\User\Desktop\SoftWare Development\Library\Library Project\Library Project\obj\Debug\Library Project.pdb
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\Library Project\bin\Debug\Library Project.exe.config
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\Library Project\bin\Debug\Library Project.exe
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\Library Project\bin\Debug\Library Project.pdb
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\Library Project\bin\Debug\BookLib.dll
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\Library Project\bin\Debug\BookLib.pdb
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\Library Project\obj\Debug\Library Project.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\Library Project\obj\Debug\Library Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\Library Project\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\Library Project\obj\Debug\Pages\AddItem.g.cs
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\Library Project\obj\Debug\Pages\EditItem.g.cs
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\Library Project\obj\Debug\Pages\ItemList.g.cs
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\Library Project\obj\Debug\App.g.cs
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\Library Project\obj\Debug\Library Project_MarkupCompile.cache
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\Library Project\obj\Debug\Library Project_MarkupCompile.lref
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\Library Project\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\Library Project\obj\Debug\Pages\AddItem.baml
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\Library Project\obj\Debug\Pages\EditItem.baml
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\Library Project\obj\Debug\Pages\ItemList.baml
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\Library Project\obj\Debug\Library Project.g.resources
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\Library Project\obj\Debug\Library_Project.Properties.Resources.resources
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\Library Project\obj\Debug\Library Project.csproj.GenerateResource.cache
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\Library Project\obj\Debug\Library Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\Library Project\obj\Debug\Library Project.csproj.CopyComplete
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\Library Project\obj\Debug\Library Project.exe
+C:\Users\User\Desktop\SoftWare Development\Library Project\Library Project\Library Project\obj\Debug\Library Project.pdb
